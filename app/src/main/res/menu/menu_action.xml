@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_profil"
+        android:title="@string/profil"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_haut"
+        android:title="@string/action_upper"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_bas"
+        android:title="@string/action_lower"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_abs"
+        android:title="@string/action_abdos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_propos"
+        android:title="Help"
+        app:showAsAction="never" />
+
+
+</menu>

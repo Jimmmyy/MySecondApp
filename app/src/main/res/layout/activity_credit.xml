@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".Credit">
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </android.support.v7.widget.RecyclerView>
+    <!--
+
+    <TextView
+        android:id="@+id/Titre_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="6dp"
+        android:gravity="center"
+        android:text="@string/titre_1"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorLight"/>
+
+
+    <TextView
+        android:id="@+id/Titre_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Titre_1"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/titre_2"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorLight"/>
+
+    <View
+        android:id="@+id/line1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/Titre_2"
+        android:background="#A9A9A9"
+        />
+
+
+    <TextView
+        android:id="@+id/fulltext"
+        android:layout_width="wrap_content"
+        android:layout_height="346dp"
+        android:layout_below="@id/line1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/credit"
+        android:textColor="@color/colorLight"
+        android:textSize="20sp"
+        android:textStyle="normal" />
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.design.widget.TextInputLayout>
+
+    <View
+        android:id="@+id/line2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/fulltext"
+        android:background="#A9A9A9" />
+
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/line2"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/app_name"
+        android:padding="5dp"
+        android:src="@drawable/logo_dra" />
+        -->
+
+</RelativeLayout>

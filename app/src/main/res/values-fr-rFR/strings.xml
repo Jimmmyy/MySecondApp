@@ -1,0 +1,34 @@
+<resources>
+    <string name="Button1">ENTRER</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="radioH">Homme</string>
+    <string name="radioF">Femme</string>
+    <string name="title">Street Workout ESIEA</string>
+    <string name="description">BDS</string>
+    <string name="app_name">Street Workout</string>
+    <string name="titre_2">ESIEA</string>
+    <string name="titre_1">Street Workout</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="settings">Paramètre</string>
+    <string name="back">Retour</string>
+    <string name="home">Home</string>
+    <string name="menu">Menu</string>
+    <string name="haut">Haut</string>
+    <string name="bas">bas</string>
+    <string name="abdos">abdos</string>
+    <string name="profil">Profil</string>
+    <string name="upperbody">haut du corps</string>
+    <string name="lowerbody">bas du corps</string>
+    <string name="abs">abdos</string>
+    <string name="a_propos">Aide</string>
+    <string name="action_upper">Haut du corps</string>
+    <string name="action_lower">Bas du corps</string>
+    <string name="action_abdos">Abdos</string>
+    <string name="credit">Projet</string>
+    <string name="profile">Profile</string>
+    <string name="description_profile">Description</string>
+    <string name="contentdescription">image</string>
+    <string name="click">CLIQUE ICI</string>
+    <string name="motivation">Make your dreams come true, JUST DO IT !</string>
+</resources>
